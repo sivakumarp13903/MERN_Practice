@@ -1,0 +1,39 @@
+Selectors in CSS
+
+Universal Selector (*)
+
+* {
+	margin : 0;
+}
+
+Type Selector p
+
+p {
+	//styles
+}
+
+
+Class Selector 
+
+.my-class {
+	color: blue;
+}
+
+
+group Selector
+
+h1,h2,h3 {
+	//styles
+}
+
+
+List Types
+
+Ordered List  <ol></ol>
+Unorder List  <ul></ul>
+Descriptive List
+
+<dl>
+	
+</dl>
+
